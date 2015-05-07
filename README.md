@@ -88,3 +88,7 @@ Order allow,deny
 Allow from all
 
 Deny from env=spambot
+
+
+
+4webmasters\.org|addons\.mozilla\.org|amanda-porn\.ga|best-seo-offer\.com|best-seo-solution\.com|bestwebsitesawards\.com|blackhatworth\.com|blogs\.forum69\.info|buttons-for-website\.com|buttons-for-your-website\.com|buy-cheap-online\.info|darodar\.com|depositfiles-porn\.ga|editors\.choice53107264\.hulfingtonpost\.com|forum20\.smailik\.org|forum69\.info|free-share-buttons\.com|generalporn\.org|googlsucks\.com|http://webmaster-traffic\.com|hulfingtonpost\.com|humanorightswatch\.org|ilovevitaly\.com|meendo-free-traffic\.ga|o-o-6-o-o\.com|pornhub-forum\.ga|rapidgator-porn\.ga|s\.click\.aliexpress\.com|semalt\.com|semalt\.semalt\.com|simple-share-buttons\.com|site2\.free-share-buttons\.com|site3\.free-share-buttons\.com|site4\.free-share-buttons\.com|social-buttons\.com|theguardlan\.com|torture\.ml|webmaster-traffic\.com|www\.event-tracking\.com|www\.Get-Free-Traffic-Now\.com|youporn-forum\.ga
