@@ -82,3 +82,9 @@ SetEnvIfNoCase Referer www.event-tracking.com spambot=yes
 SetEnvIfNoCase Referer www.Get-Free-Traffic-Now.com spambot=yes
 
 SetEnvIfNoCase Referer youporn-forum.ga spambot=yes
+
+Order allow,deny
+
+Allow from all
+
+Deny from env=spambot
