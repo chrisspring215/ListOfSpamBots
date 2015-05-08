@@ -39,6 +39,8 @@ SetEnvIfNoCase Referer generalporn.org spambot=yes
 
 SetEnvIfNoCase Referer googlsucks.com spambot=yes
 
+SetEnvIfNoCase Referer guardlink.org spambot=yes
+
 SetEnvIfNoCase Referer http://webmaster-traffic.com spambot=yes
 
 SetEnvIfNoCase Referer hulfingtonpost.com spambot=yes
