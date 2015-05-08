@@ -29,6 +29,8 @@ SetEnvIfNoCase Referer depositfiles-porn.ga spambot=yes
 
 SetEnvIfNoCase Referer editors.choice53107264.hulfingtonpost.com spambot=yes
 
+SetEnvIfNoCase Referer event-tracking.com spambot=yes
+
 SetEnvIfNoCase Referer forum20.smailik.org spambot=yes
 
 SetEnvIfNoCase Referer forum69.info spambot=yes
@@ -78,8 +80,6 @@ SetEnvIfNoCase Referer theguardlan.com spambot=yes
 SetEnvIfNoCase Referer torture.ml spambot=yes
 
 SetEnvIfNoCase Referer webmaster-traffic.com spambot=yes
-
-SetEnvIfNoCase Referer www.event-tracking.com spambot=yes
 
 SetEnvIfNoCase Referer www.Get-Free-Traffic-Now.com spambot=yes
 
